@@ -1,0 +1,43 @@
+{
+  "name": "package-simulator",
+  "version": "0.0.0",
+  "private": true,
+  "description": "KTANEirl SPI simulator",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Johannes Schmid",
+      "email": "johannes4.schmid@st.oth-regensburg.de"
+    }
+  ],
+  "main": "out/app",
+  "scripts": {
+    "build": "tsc --build .",
+    "tsc": "tsc --build . --watch",
+    "clean": "rimraf out",
+    "auto": "nodemon out/app.js -d 2",
+    "serve": "tsc --build . && node out/app.js",
+    "test": "jest",
+    "autotest": "jest --watch"
+  },
+  "dependencies": {
+    "onoff": "^6.0.3",
+    "raspi": "^6.0.1",
+    "spi-device": "^3.1.2",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.8",
+    "@types/raspi": "^5.0.1",
+    "eslint": "^6.1.0",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  },
+  "engines": {
+    "node": ">= 18.12.1",
+    "yarn": ">= 1.22.19"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

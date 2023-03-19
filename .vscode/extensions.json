@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-german",
+        "hediet.vscode-drawio",
+        "ms-vsliveshare.vsliveshare",
+        "cschlosser.doxdocgen",
+        "PKief.material-icon-theme",
+
+        "platformio.platformio-ide",
+        "ms-vscode.cpptools",
+
+        "dbaeumer.vscode-eslint",
+        "piyushvscode.nodejs-snippets"
+    ]
+}

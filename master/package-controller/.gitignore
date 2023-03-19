@@ -1,0 +1,5 @@
+bcm2835-*
+sockpp-*
+a.out
+spi-package-controller
+*.o

@@ -1,0 +1,14 @@
+*.pdf
+*.code-workspace
+out/
+yarn-error.log
+node_modules
+master/package-controller/bcm_2835-1.71
+master/backend/graph.svg
+tsconfig.tsbuildinfo
+documentation/drawio/*.png
+master/frontend/dist
+build.zip
+documentation/drawio/*.svg
+master/frontend/src/assets/ports/dvi.png
+master/frontend/src/assets/ports/parallel.png
