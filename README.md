@@ -1,4 +1,4 @@
-<h1> <img src="master/frontend/src/assets/logo.svg"
+<h1> <img src="documentation/assets/logo.png"
   width="128"
   height="128"
   style="float:left;">
