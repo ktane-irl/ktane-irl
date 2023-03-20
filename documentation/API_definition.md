@@ -238,49 +238,49 @@
 }
 ```
 
-### /api/Button/1/[0-12]
+<!-- ### /api/Button/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/Keypad/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/WhosOnFirst/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/Memory/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/MorseCode/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/ComplicatedWires/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/WireSequences/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/Passwords/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/VentingGas/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/Knobs/1/[0-12]
 
-<!-- todo -->
+not implemented.
 
 ### /api/CapacitorDischarge/1/[0-12]
 
-<!-- todo -->
+not implemented. -->
 
 ## /api/play
 
@@ -383,41 +383,53 @@
 }
 ```
 
-### /api/play/config/TheButton/1/[0-12]
-<!-- todo -->
+<!-- ### /api/play/config/TheButton/1/[0-12]
+
+not implemented.
 
 ### /api/play/config/Keypads/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/WhosOnFirst/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/Memory/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/MorseCode/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/ComplicatedWires/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/WireSequences/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/Mazes/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/Passwords/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/VentingGas/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/CapacitorDischarge/1/[0-12]
-<!-- todo -->
+
+not implemented.
 
 ### /api/play/config/Knobs/1/[0-12]
-<!-- todo -->
+
+not implemented. -->
 
 ### /api/play/SetGameState
 

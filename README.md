@@ -26,7 +26,10 @@ The master information can be found in the [master](master/README.md) folder.
 ## Contributors
 
 * Module implementations: [@FinnArtmann](https://github.com/FinnArtmann), [@andreasfoOTH](https://github.com/andreasfoOTH), [@RebekkaSeidenschwand](https://github.com/RebekkaSeidenschwand)
-* Package controller: [@ZaykorDE](https://github.com/ZaykorDE)
-* Module logic, game logic and package simulator: [@Emergency1999](https://github.com/Emergency1999)
+* package controller: [@ZaykorDE](https://github.com/ZaykorDE)
+* module logic and game logic: [@Emergency1999](https://github.com/Emergency1999)
 * API: [@thomasniefanger](https://github.com/thomasniefanger)
-* Frontend: [@ptrLx](https://github.com/ptrLx)
+* frontend: [@ptrLx](https://github.com/ptrLx)
+* package simulator: [@Emergency1999](https://github.com/Emergency1999)
+* schematics: [@FinnArtmann](https://github.com/FinnArtmann), [@andreasfoOTH](https://github.com/andreasfoOTH), [@ZaykorDE](https://github.com/ZaykorDE)
+* 3D modeling: [@Emergency1999](https://github.com/Emergency1999)
