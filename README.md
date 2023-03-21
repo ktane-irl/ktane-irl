@@ -1,4 +1,4 @@
-<h1> <img src="documentation/assets/logo.png"
+<h1> <img src="doc/assets/logo.png"
   width="128"
   height="128"
   style="float:left;">
@@ -15,7 +15,7 @@ KTANEirl is a modular in-hardware implementation of the famous puzzle video game
 
 ## Modules
 
-![modules](documentation/assets/modules.png)
+![modules](doc/assets/modules.png)
 
 The modules information can be found in the [modules](modules/README.md) folder.
 
