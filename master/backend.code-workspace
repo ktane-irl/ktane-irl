@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "backend"
+		},
+		{
+			"path": "common"
+		},
+		{
+			"path": "../documentation"
+		}
+	],
+	"settings": {
+		"svg.preview.background": "editor",
+		"cSpell.words": [
+			"Leds",
+			"simon"
+		]
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"folders": [{
+			"name": "CA01-firmware",
+			"path": "00-case/CA01-firmware"
+		},
+		{
+			"name": "WI01-firmware",
+			"path": "02-wires/WI01-firmware"
+		},
+		{
+			"name": "SS01-firmware",
+			"path": "05-simonSays/SS01-firmware"
+		},
+		{
+			"name": "CM01-firmware",
+			"path": "01-clockModule/CM01-firmware"
+		},
+		{
+			"name": "MA01-firmware",
+			"path": "11-mazes/MA01-firmware"
+		},
+		{
+			"path": "templates/TE01-firmware"
+		},
+		{
+			"path": "../documentation"
+		}
+	],
+	"settings": {
+		"platformio-ide.activateOnlyOnPlatformIOProject": true,
+		"platformio-ide.disablePIOHomeStartup": true,
+		"files.associations": {
+			"*.json": "jsonc",
+			"*.tpp": "cpp"
+		},
+		"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0}"
+	}
+}
