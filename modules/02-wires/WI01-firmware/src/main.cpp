@@ -8,7 +8,6 @@
 
 #include "global_module.hpp"
 #include "module_events.tpp"
-#include "status_led.hpp"
 
 // Module ID and Module Version
 #define MODULE_ID 2

@@ -9,7 +9,6 @@
 
 #include "global_module.hpp"
 #include "module_events.tpp"
-#include "status_led.hpp"
 
 // --- MODULE SPECIFIC CONFIGURATION ---
 

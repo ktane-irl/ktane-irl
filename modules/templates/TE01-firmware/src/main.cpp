@@ -8,7 +8,6 @@
 
 #include "global_module.hpp"
 #include "module_events.tpp"
-#include "status_led.hpp"
 
 /* -- Instruction: Creating a new module --
 1. Edit MODULE_ID and MODULE_VERSION

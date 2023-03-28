@@ -7,7 +7,6 @@
 #include "SPI.h"
 #include "Wire.h"
 #include "module_events.tpp"
-#include "status_led.hpp"
 
 CircularBuffer<uint8_t, TX_BUFFER_SIZE> send_buffer;
 CircularBuffer<uint8_t, RX_BUFFER_SIZE> receive_buffer;
